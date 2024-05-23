@@ -1,0 +1,1 @@
+MYSQL exercises are completed from **sqlbolt.com** and attached the screenshots in the above word document.
